@@ -9,7 +9,7 @@ Gerson Cruz
 ```
 ### Project Description
 ```python
-Search for restaurants and and get the weather for that location
+Search for restaurants and get the weather for that location
 Sketch of final product
 TBD
 ```
