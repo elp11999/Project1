@@ -1,27 +1,24 @@
 ## Project1
-## Project Title: Weather - Restaurant Application
+## Weather - Restaurant Application
 
-## Team Members 
+### Team Members 
 ```python
 Mike Henderson
 Alex Curington
 Gerson Cruz
 ```
-
-## Project Description
+### Project Description
 ```python
 Search for restaurants and and get the weather for that location
 Sketch of final product
 TBD
 ```
-
-## APIs
+### APIs
 ```python
 Zomato
 Weather API
 ```
-
-## Tasks
+### Tasks
 ```python
 UI Design
 AJAX API Design
